@@ -26,7 +26,7 @@ of what each of the values mean.
 
 export const info = {
     firstName: "Igor",
-    lastName: "Nascimento",
+    lastName: "Naximento",
     initials: "IN", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
@@ -35,11 +35,11 @@ export const info = {
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
             emoji: '🍫',
-            text: 'Fueled by \'pasteis de nata\''
+            text: 'Fueledd by \'pasteiss de nata\''
         },
         {
             emoji: '📓',
-            text: 'Studing Cyber Sec.'
+            text: 'Studingg Cyber Sec.'
         },
         {
             emoji: '🌎',
